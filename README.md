@@ -6,8 +6,6 @@ This repository is used to learn the basics of Git and GitHub
 ## 1. Introduction
 This repository is used to learn-by-doing the basics of Git and GitHub for human movement analysis. Before this course, my background in Git and version control was quite basic. I am looking forward to learning more about Git and GitHub because they are essential tools for my future work.
 
-
-
 ## 2. A Pretty Image from the Internet
 ![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
