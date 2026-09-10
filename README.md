@@ -16,3 +16,8 @@ Learning Python, R, and Git will be extremely helpful for my master's degree. Py
 
 ## 4. Local Image Demonstration
 ![My Local Image](images/my-image.png)
+
+## 5. Summary of What I Have Learned
+In this assignment, I learned the main concepts of version control: repositories, branches, and commits. I learned how to use Markdown to write documentation. The main commands I used in GitHub Desktop were clone, create branch, commit, and push. 
+
+Conclusion: It took me approximately 2 hours to complete this work.
